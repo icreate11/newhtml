@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="400" viewBox="0 0 428 400">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-custom_1);
+      }
+
+      .cls-2 {
+        fill: #3ae3b5;
+        width:50px;
+      height:50px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-5 {
+        filter: url(#pencil-ruler);
+      }
+      <!-- .Polygonmain { position: relative; }
+      .rev-anim {
+      animation: rotate 1.4s linear infinite;
+  -webkit-animation: rotate 1.4s linear infinite;
+  -moz-animation: rotate 1.4s linear infinite;
+      display: block;
+      transition: all .4s;      
+    }
+
+      @keyframes rotate {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      @-webkit-keyframes rotate {
+        to {
+          -webkit-transform: rotate(360deg);
+        }
+      }
+      @-moz-keyframes rotate {
+        to {
+          transform: rotate(360deg);
+        }
+      } -->
+
+    </style>
+    <filter id="pencil-ruler" x="80.569" y="50" width="287.157" height="287.158" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-custom_1">
+      <rect width="428" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" class="cls-1">
+    <rect class="cls-4" width="428" height="400"/>
+    <g id="Group_31" class="Polygonmain" data-name="Group 31" transform="translate(-1295 -99)">
+      <path id="Polygon_1" data-name="Polygon 1" class="cls-2 rev-anim" d="M47.343,0a8,8,0,0,1,6.928,4l12.7,22a8,8,0,0,1,0,8l-12.7,22a8,8,0,0,1-6.928,4h-25.4a8,8,0,0,1-6.928-4L2.309,34a8,8,0,0,1,0-8l12.7-22a8,8,0,0,1,6.928-4Z" transform="translate(1452.972 99.546) rotate(45)"/>
+
+      <path id="Polygon_5" data-name="Polygon 5" class="cls-2" d="M14.434,0a8,8,0,0,1,6.928,4l1.732,3a8,8,0,0,1,0,8l-1.732,3a8,8,0,0,1-6.928,4H10.97a8,8,0,0,1-6.928-4L2.309,15a8,8,0,0,1,0-8L4.041,4A8,8,0,0,1,10.97,0Z" transform="translate(1513.008 380.451) rotate(45)"/>
+
+      <path id="Polygon_6" data-name="Polygon 6" class="cls-2" d="M14.434,0a8,8,0,0,1,6.928,4l1.732,3a8,8,0,0,1,0,8l-1.732,3a8,8,0,0,1-6.928,4H10.97a8,8,0,0,1-6.928-4L2.309,15a8,8,0,0,1,0-8L4.041,4A8,8,0,0,1,10.97,0Z" transform="translate(1533.714 166.362) rotate(111)"/>
+
+      <path id="Polygon_2" data-name="Polygon 2" class="cls-2" d="M89.905,0a8,8,0,0,1,6.91,3.969l26.833,46a8,8,0,0,1,0,8.062l-26.833,46A8,8,0,0,1,89.905,108H36.095a8,8,0,0,1-6.91-3.969l-26.833-46a8,8,0,0,1,0-8.062l26.833-46A8,8,0,0,1,36.095,0Z" transform="matrix(-0.342, 0.94, -0.94, -0.342, 1680.291, 356.268)"/>
+
+      <path id="Polygon_3" data-name="Polygon 3" class="cls-2" d="M113.93,0a8,8,0,0,1,6.892,3.937l34.784,59a8,8,0,0,1,0,8.126l-34.784,59A8,8,0,0,1,113.93,134H44.07a8,8,0,0,1-6.892-3.937L2.4,71.063a8,8,0,0,1,0-8.126l34.784-59A8,8,0,0,1,44.07,0Z" transform="translate(1501.471 392.123) rotate(137)"/>
+
+      <path id="Polygon_4" data-name="Polygon 4" class="cls-2" d="M106.421,0a8,8,0,0,1,6.9,3.949l32.3,55a8,8,0,0,1,0,8.1l-32.3,55a8,8,0,0,1-6.9,3.949H41.579a8,8,0,0,1-6.9-3.949l-32.3-55a8,8,0,0,1,0-8.1l32.3-55A8,8,0,0,1,41.579,0Z" transform="translate(1722.66 165.542) rotate(109)"/>
+
+      <g class="cls-5" transform="matrix(1, 0, 0, 1, 1295, 99)">
+        <path id="pencil-ruler-2" data-name="pencil-ruler" class="cls-3" d="M57.539,128.284l70.747-70.737L105.093,34.354,72.669,66.779a4.163,4.163,0,0,1-5.893,0l-5.893-5.893a4.163,4.163,0,0,1,0-5.893L93.307,22.568,75.623,4.879a16.673,16.673,0,0,0-23.582,0L4.881,52.038a16.678,16.678,0,0,0,0,23.582Zm204.214-61.4a25.254,25.254,0,0,0,0-35.71L237.966,7.386a25.262,25.262,0,0,0-35.721,0L178.054,31.573l59.508,59.508Zm-95.6-23.409L10.028,199.583.166,256.063a11.16,11.16,0,0,0,12.927,12.911l56.485-9.9L225.665,102.978Zm98.109,150.047-17.684-17.684-32.424,32.424a4.163,4.163,0,0,1-5.893,0l-5.893-5.893a4.172,4.172,0,0,1,0-5.893L234.8,164.052l-23.2-23.2-70.747,70.737,52.679,52.674a16.673,16.673,0,0,0,23.582,0l47.16-47.154a16.673,16.673,0,0,0,0-23.582Z" transform="translate(89.57 56.01)"/>
+      </g>
+    </g>
+  </g>
+</svg>
